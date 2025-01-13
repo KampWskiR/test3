@@ -1,0 +1,16 @@
+{
+    "style": [
+        "modern"
+    ],
+    "theme": [],
+    "meta": [
+        "swing",
+        "fixed hitboxes"
+    ],
+    "gameplay": [
+        "slow paced",
+        "puzzle",
+        "gimmicky",
+        "gravity"
+    ]
+}

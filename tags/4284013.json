@@ -1,17 +1,16 @@
 {
     "style": [
-        "design"
+        "effect",
+        "circles"
     ],
-    "theme": [
-        "hell"
-    ],
+    "theme": [],
     "meta": [
-        "collab",
-        "ship"
+        "flashy",
+        "wave"
     ],
     "gameplay": [
         "fast paced",
         "nerve control",
-        "chokepoints"
+        "learny"
     ]
 }

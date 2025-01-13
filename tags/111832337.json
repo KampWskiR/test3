@@ -1,0 +1,14 @@
+{
+    "style": [
+        "minigame",
+        "atmospheric"
+    ],
+    "theme": [],
+    "meta": [
+        "2p"
+    ],
+    "gameplay": [
+        "bossfight",
+        "gimmicky"
+    ]
+}

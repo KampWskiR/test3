@@ -1,0 +1,15 @@
+{
+    "style": [
+        "standard"
+    ],
+    "theme": [
+        "robtop"
+    ],
+    "meta": [
+        "cube"
+    ],
+    "gameplay": [
+        "memory",
+        "blinds"
+    ]
+}

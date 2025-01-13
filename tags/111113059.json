@@ -1,0 +1,16 @@
+{
+    "style": [
+        "design"
+    ],
+    "theme": [
+        "futuristic"
+    ],
+    "meta": [
+        "jetpack"
+    ],
+    "gameplay": [
+        "memory",
+        "sync",
+        "avoidance"
+    ]
+}

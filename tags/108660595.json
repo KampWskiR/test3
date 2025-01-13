@@ -1,0 +1,14 @@
+{
+    "style": [
+        "simplism",
+        "experimental"
+    ],
+    "theme": [],
+    "meta": [
+        "flashy"
+    ],
+    "gameplay": [
+        "rooms",
+        "gravity"
+    ]
+}

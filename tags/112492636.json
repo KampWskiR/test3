@@ -1,0 +1,13 @@
+{
+    "style": [
+        "minigame",
+        "pixel"
+    ],
+    "theme": [],
+    "meta": [],
+    "gameplay": [
+        "gimmicky",
+        "timed",
+        "autoscroller"
+    ]
+}

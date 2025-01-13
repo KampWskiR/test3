@@ -1,0 +1,13 @@
+{
+    "style": [],
+    "theme": [
+        "futuristic"
+    ],
+    "meta": [
+        "cube"
+    ],
+    "gameplay": [
+        "maze",
+        "rooms"
+    ]
+}

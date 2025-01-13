@@ -1,0 +1,22 @@
+{
+    "style": [
+        "modern",
+        "art",
+        "atmospheric"
+    ],
+    "theme": [
+        "nature"
+    ],
+    "meta": [
+        "checkpointless",
+        "cube"
+    ],
+    "gameplay": [
+        "gimmicky",
+        "momentum",
+        "cycle",
+        "wavedash",
+        "force blocks",
+        "foddian"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "style": [
+        "standard"
+    ],
+    "theme": [
+        "1.0"
+    ],
+    "meta": [
+        "cube"
+    ],
+    "gameplay": [
+        "gimmicky",
+        "timed"
+    ]
+}

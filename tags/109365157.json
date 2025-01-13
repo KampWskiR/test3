@@ -1,0 +1,23 @@
+{
+    "style": [
+        "pixel",
+        "atmospheric"
+    ],
+    "theme": [
+        "nature",
+        "cold"
+    ],
+    "meta": [
+        "story",
+        "robot"
+    ],
+    "gameplay": [
+        "bossfight",
+        "timed",
+        "momentum",
+        "wall jump",
+        "cycle",
+        "slippery",
+        "force blocks"
+    ]
+}

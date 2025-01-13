@@ -1,0 +1,17 @@
+{
+    "style": [
+        "art",
+        "pixel"
+    ],
+    "theme": [
+        "futuristic"
+    ],
+    "meta": [],
+    "gameplay": [
+        "sideways",
+        "gimmicky",
+        "learny",
+        "chokepoints",
+        "sync"
+    ]
+}

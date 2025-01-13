@@ -1,0 +1,14 @@
+{
+    "style": [],
+    "theme": [
+        "desert"
+    ],
+    "meta": [
+        "checkpointless",
+        "robot"
+    ],
+    "gameplay": [
+        "needle",
+        "timed"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "style": [
+        "modern"
+    ],
+    "theme": [],
+    "meta": [
+        "fixed hitboxes"
+    ],
+    "gameplay": [
+        "gimmicky",
+        "rooms"
+    ]
+}

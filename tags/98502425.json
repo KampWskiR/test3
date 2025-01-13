@@ -1,0 +1,15 @@
+{
+    "style": [
+        "pixel"
+    ],
+    "theme": [],
+    "meta": [
+        "cube",
+        "2p"
+    ],
+    "gameplay": [
+        "duals",
+        "puzzle",
+        "rooms"
+    ]
+}

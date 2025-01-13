@@ -1,0 +1,15 @@
+{
+    "style": [
+        "pixel"
+    ],
+    "theme": [
+        "retro"
+    ],
+    "meta": [
+        "robot"
+    ],
+    "gameplay": [
+        "needle",
+        "memory"
+    ]
+}

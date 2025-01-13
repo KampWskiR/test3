@@ -1,0 +1,16 @@
+{
+    "style": [
+        "pixel"
+    ],
+    "theme": [],
+    "meta": [
+        "robot",
+        "checkpointless"
+    ],
+    "gameplay": [
+        "foddian",
+        "force blocks",
+        "gravity",
+        "wall jump"
+    ]
+}

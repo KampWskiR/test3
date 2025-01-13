@@ -1,0 +1,17 @@
+{
+    "style": [],
+    "theme": [],
+    "meta": [
+        "checkpointless",
+        "cube",
+        "robot",
+        "fixed hitboxes"
+    ],
+    "gameplay": [
+        "memory",
+        "needle",
+        "cycle",
+        "wavedash",
+        "double jump"
+    ]
+}

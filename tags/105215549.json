@@ -1,0 +1,15 @@
+{
+    "style": [
+        "recreation"
+    ],
+    "theme": [
+        "retro",
+        "pixel art"
+    ],
+    "meta": [],
+    "gameplay": [
+        "maze",
+        "cycle",
+        "gravity"
+    ]
+}

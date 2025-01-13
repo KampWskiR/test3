@@ -1,0 +1,18 @@
+{
+    "style": [
+        "pixel"
+    ],
+    "theme": [
+        "robtop",
+        "cold"
+    ],
+    "meta": [
+        "cube",
+        "ufo"
+    ],
+    "gameplay": [
+        "slow paced",
+        "cycle",
+        "force blocks"
+    ]
+}

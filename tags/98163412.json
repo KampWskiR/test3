@@ -1,0 +1,21 @@
+{
+    "style": [
+        "pixel"
+    ],
+    "theme": [
+        "aquatic",
+        "hot"
+    ],
+    "meta": [
+        "robot"
+    ],
+    "gameplay": [
+        "slow paced",
+        "needle",
+        "wavedash",
+        "force blocks",
+        "cycle",
+        "blinds",
+        "gravity"
+    ]
+}

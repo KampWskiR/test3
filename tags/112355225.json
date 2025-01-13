@@ -1,0 +1,13 @@
+{
+    "style": [
+        "pixel"
+    ],
+    "theme": [],
+    "meta": [
+        "checkpointless"
+    ],
+    "gameplay": [
+        "autoscroller",
+        "sync"
+    ]
+}

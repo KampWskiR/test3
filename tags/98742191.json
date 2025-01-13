@@ -1,0 +1,16 @@
+{
+    "style": [
+        "pixel"
+    ],
+    "theme": [],
+    "meta": [
+        "cube"
+    ],
+    "gameplay": [
+        "gravity",
+        "gimmicky",
+        "force blocks",
+        "wavedash",
+        "fast paced"
+    ]
+}

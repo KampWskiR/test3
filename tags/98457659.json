@@ -1,0 +1,13 @@
+{
+    "style": [
+        "pixel"
+    ],
+    "theme": [],
+    "meta": [],
+    "gameplay": [
+        "duals",
+        "rooms",
+        "cycle",
+        "puzzle"
+    ]
+}

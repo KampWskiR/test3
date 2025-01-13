@@ -1,0 +1,15 @@
+{
+    "style": [
+        "pixel"
+    ],
+    "theme": [],
+    "meta": [
+        "robot"
+    ],
+    "gameplay": [
+        "cycle",
+        "puzzle",
+        "speedrun",
+        "force blocks"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "style": [
+        "effect",
+        "tech",
+        "pixel",
+        "minigame"
+    ],
+    "theme": [
+        "retro",
+        "space"
+    ],
+    "meta": [
+        "checkpointless",
+        "2p"
+    ],
+    "gameplay": [
+        "bossfight",
+        "avoidance"
+    ]
+}

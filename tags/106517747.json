@@ -1,0 +1,16 @@
+{
+    "style": [
+        "art",
+        "animation",
+        "realism",
+        "atmospheric"
+    ],
+    "theme": [
+        "nature",
+        "magic"
+    ],
+    "meta": [],
+    "gameplay": [
+        "sync"
+    ]
+}

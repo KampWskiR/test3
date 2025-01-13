@@ -1,17 +1,17 @@
 {
     "style": [
-        "design"
+        "art"
     ],
     "theme": [
-        "hell"
+        "cold"
     ],
     "meta": [
-        "collab",
-        "ship"
+        "cube"
     ],
     "gameplay": [
         "fast paced",
-        "nerve control",
-        "chokepoints"
+        "momentum",
+        "slippery",
+        "force blocks"
     ]
 }

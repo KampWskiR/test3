@@ -1,0 +1,22 @@
+{
+    "style": [
+        "minigame"
+    ],
+    "theme": [
+        "retro",
+        "pixel art"
+    ],
+    "meta": [
+        "2p"
+    ],
+    "gameplay": [
+        "bossfight",
+        "slow paced",
+        "gimmicky",
+        "wall jump",
+        "cycle",
+        "rooms",
+        "double jump",
+        "metroidvania"
+    ]
+}

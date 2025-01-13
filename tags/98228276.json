@@ -1,0 +1,16 @@
+{
+    "style": [
+        "pixel"
+    ],
+    "theme": [],
+    "meta": [
+        "checkpointless"
+    ],
+    "gameplay": [
+        "speedrun",
+        "gravity",
+        "blinkers",
+        "rooms",
+        "cycle"
+    ]
+}

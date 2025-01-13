@@ -1,0 +1,16 @@
+{
+    "style": [
+        "art",
+        "atmospheric"
+    ],
+    "theme": [],
+    "meta": [
+        "cube"
+    ],
+    "gameplay": [
+        "gimmicky",
+        "timed",
+        "puzzle",
+        "rooms"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "style": [
+        "minigame"
+    ],
+    "theme": [],
+    "meta": [
+        "2p"
+    ],
+    "gameplay": [
+        "puzzle",
+        "random"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "style": [
+        "standard"
+    ],
+    "theme": [
+        "robtop"
+    ],
+    "meta": [
+        "cube",
+        "ball"
+    ],
+    "gameplay": [
+        "learny"
+    ]
+}

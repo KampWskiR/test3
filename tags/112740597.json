@@ -1,17 +1,16 @@
 {
     "style": [
-        "design"
+        "art",
+        "realism"
     ],
     "theme": [
-        "hell"
+        "nature"
     ],
     "meta": [
-        "collab",
-        "ship"
+        "cube"
     ],
     "gameplay": [
         "fast paced",
-        "nerve control",
-        "chokepoints"
+        "sync"
     ]
 }

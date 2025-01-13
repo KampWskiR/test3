@@ -1,0 +1,13 @@
+{
+    "style": [
+        "design"
+    ],
+    "theme": [],
+    "meta": [
+        "cube"
+    ],
+    "gameplay": [
+        "gravity",
+        "force blocks"
+    ]
+}

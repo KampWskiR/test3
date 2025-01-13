@@ -1,0 +1,14 @@
+{
+    "style": [
+        "modern",
+        "tech"
+    ],
+    "theme": [],
+    "meta": [
+        "robot"
+    ],
+    "gameplay": [
+        "avoidance",
+        "autoscroller"
+    ]
+}

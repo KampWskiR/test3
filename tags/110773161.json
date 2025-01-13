@@ -1,17 +1,17 @@
 {
     "style": [
-        "design"
+        "art",
+        "cartoon"
     ],
     "theme": [
-        "hell"
+        "rainbow"
     ],
     "meta": [
-        "collab",
-        "ship"
+        "flashy"
     ],
     "gameplay": [
+        "duals",
         "fast paced",
-        "nerve control",
-        "chokepoints"
+        "sync"
     ]
 }

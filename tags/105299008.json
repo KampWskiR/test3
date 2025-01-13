@@ -1,0 +1,17 @@
+{
+    "style": [
+        "pixel"
+    ],
+    "theme": [
+        "hot"
+    ],
+    "meta": [
+        "robot",
+        "checkpointless"
+    ],
+    "gameplay": [
+        "sync",
+        "cycle",
+        "rooms"
+    ]
+}

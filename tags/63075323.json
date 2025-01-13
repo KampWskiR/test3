@@ -1,17 +1,16 @@
 {
     "style": [
-        "design"
+        "simplism"
     ],
     "theme": [
-        "hell"
+        "monochromatic"
     ],
     "meta": [
-        "collab",
-        "ship"
+        "flashy"
     ],
     "gameplay": [
         "fast paced",
-        "nerve control",
-        "chokepoints"
+        "sync",
+        "memory"
     ]
 }

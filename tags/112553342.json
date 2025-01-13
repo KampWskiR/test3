@@ -1,0 +1,17 @@
+{
+    "style": [
+        "minigame"
+    ],
+    "theme": [
+        "pixel art"
+    ],
+    "meta": [
+        "cube"
+    ],
+    "gameplay": [
+        "gimmicky",
+        "double jump",
+        "cycle",
+        "rooms"
+    ]
+}

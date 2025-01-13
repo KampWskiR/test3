@@ -1,0 +1,17 @@
+{
+    "style": [
+        "pixel"
+    ],
+    "theme": [
+        "pixel art"
+    ],
+    "meta": [
+        "robot"
+    ],
+    "gameplay": [
+        "gimmicky",
+        "blinkers",
+        "double jump",
+        "wall jump"
+    ]
+}

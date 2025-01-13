@@ -3,15 +3,17 @@
         "design"
     ],
     "theme": [
-        "hell"
+        "acid"
     ],
     "meta": [
         "collab",
-        "ship"
+        "cube",
+        "robot"
     ],
     "gameplay": [
-        "fast paced",
-        "nerve control",
-        "chokepoints"
+        "momentum",
+        "zippers",
+        "wavedash",
+        "speedrun"
     ]
 }

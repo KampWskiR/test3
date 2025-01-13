@@ -1,0 +1,14 @@
+{
+    "style": [
+        "standard"
+    ],
+    "theme": [],
+    "meta": [
+        "ship"
+    ],
+    "gameplay": [
+        "duals",
+        "learny",
+        "chokepoints"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "style": [
+        "simplism"
+    ],
+    "theme": [
+        "aquatic"
+    ],
+    "meta": [
+        "checkpointless",
+        "cube"
+    ],
+    "gameplay": [
+        "gimmicky",
+        "force blocks",
+        "autoscroller",
+        "double jump",
+        "gravity"
+    ]
+}

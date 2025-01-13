@@ -1,0 +1,15 @@
+{
+    "style": [
+        "standard"
+    ],
+    "theme": [],
+    "meta": [
+        "cube",
+        "ball"
+    ],
+    "gameplay": [
+        "blinds",
+        "memory",
+        "learny"
+    ]
+}

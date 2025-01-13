@@ -1,0 +1,14 @@
+{
+    "style": [],
+    "theme": [],
+    "meta": [
+        "cube",
+        "robot"
+    ],
+    "gameplay": [
+        "gimmicky",
+        "gravity",
+        "timed",
+        "rooms"
+    ]
+}

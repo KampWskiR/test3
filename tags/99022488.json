@@ -1,0 +1,16 @@
+{
+    "style": [
+        "recreation",
+        "minigame"
+    ],
+    "theme": [],
+    "meta": [
+        "nong",
+        "2p"
+    ],
+    "gameplay": [
+        "maze",
+        "cycle",
+        "rooms"
+    ]
+}

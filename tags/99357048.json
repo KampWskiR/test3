@@ -1,0 +1,15 @@
+{
+    "style": [
+        "art"
+    ],
+    "theme": [],
+    "meta": [
+        "checkpointless",
+        "cube"
+    ],
+    "gameplay": [
+        "wall jump",
+        "cycle",
+        "gravity"
+    ]
+}

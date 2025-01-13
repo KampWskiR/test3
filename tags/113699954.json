@@ -1,0 +1,15 @@
+{
+    "style": [
+        "pixel"
+    ],
+    "theme": [],
+    "meta": [
+        "checkpointless",
+        "jetpack",
+        "robot"
+    ],
+    "gameplay": [
+        "rooms",
+        "speedrun"
+    ]
+}

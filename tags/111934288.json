@@ -1,0 +1,14 @@
+{
+    "style": [
+        "modern",
+        "simplism"
+    ],
+    "theme": [],
+    "meta": [],
+    "gameplay": [
+        "maze",
+        "wall jump",
+        "rooms",
+        "gravity"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "style": [
+        "simplism"
+    ],
+    "theme": [],
+    "meta": [
+        "checkpointless",
+        "cube",
+        "fixed hitboxes"
+    ],
+    "gameplay": [
+        "timed",
+        "gravity"
+    ]
+}

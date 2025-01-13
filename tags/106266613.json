@@ -1,0 +1,15 @@
+{
+    "style": [
+        "pixel"
+    ],
+    "theme": [
+        "cold"
+    ],
+    "meta": [],
+    "gameplay": [
+        "duals",
+        "cycle",
+        "blinkers",
+        "gravity"
+    ]
+}

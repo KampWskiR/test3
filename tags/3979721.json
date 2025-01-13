@@ -6,12 +6,11 @@
         "hell"
     ],
     "meta": [
-        "collab",
-        "ship"
+        "ship",
+        "wave"
     ],
     "gameplay": [
-        "fast paced",
-        "nerve control",
-        "chokepoints"
+        "chokepoints",
+        "straight fly"
     ]
 }

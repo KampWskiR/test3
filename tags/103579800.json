@@ -1,0 +1,14 @@
+{
+    "style": [
+        "minigame"
+    ],
+    "theme": [],
+    "meta": [
+        "jetpack"
+    ],
+    "gameplay": [
+        "bossfight",
+        "rooms",
+        "gravity"
+    ]
+}

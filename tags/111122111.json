@@ -1,0 +1,13 @@
+{
+    "style": [
+        "layout"
+    ],
+    "theme": [],
+    "meta": [
+        "fixed hitboxes"
+    ],
+    "gameplay": [
+        "needle",
+        "wavedash"
+    ]
+}

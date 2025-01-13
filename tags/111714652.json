@@ -1,0 +1,13 @@
+{
+    "style": [
+        "pixel"
+    ],
+    "theme": [],
+    "meta": [
+        "cube"
+    ],
+    "gameplay": [
+        "blinds",
+        "autoscroller"
+    ]
+}

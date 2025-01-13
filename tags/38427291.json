@@ -1,17 +1,14 @@
 {
     "style": [
-        "design"
+        "generic"
     ],
-    "theme": [
-        "hell"
-    ],
+    "theme": [],
     "meta": [
-        "collab",
         "ship"
     ],
     "gameplay": [
         "fast paced",
-        "nerve control",
+        "timing",
         "chokepoints"
     ]
 }

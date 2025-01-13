@@ -1,0 +1,20 @@
+{
+    "style": [
+        "atmospheric"
+    ],
+    "theme": [
+        "aquatic"
+    ],
+    "meta": [
+        "robot",
+        "fixed hitboxes"
+    ],
+    "gameplay": [
+        "autoscroller",
+        "force blocks",
+        "cycle",
+        "slow paced",
+        "needle",
+        "slope boost"
+    ]
+}

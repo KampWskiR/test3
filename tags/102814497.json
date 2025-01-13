@@ -1,0 +1,19 @@
+{
+    "style": [
+        "glow",
+        "pixel"
+    ],
+    "theme": [
+        "magic"
+    ],
+    "meta": [
+        "story",
+        "cube"
+    ],
+    "gameplay": [
+        "gimmicky",
+        "cycle",
+        "speedrun",
+        "gravity"
+    ]
+}

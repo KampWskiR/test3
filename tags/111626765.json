@@ -1,0 +1,23 @@
+{
+    "style": [
+        "simplism",
+        "modern",
+        "art",
+        "design"
+    ],
+    "theme": [],
+    "meta": [
+        "flashy"
+    ],
+    "gameplay": [
+        "wavedash",
+        "cycle",
+        "blinkers",
+        "rooms",
+        "momentum",
+        "gimmicky",
+        "force blocks",
+        "slippery",
+        "puzzle"
+    ]
+}

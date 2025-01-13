@@ -1,0 +1,12 @@
+{
+    "style": [],
+    "theme": [],
+    "meta": [
+        "jetpack"
+    ],
+    "gameplay": [
+        "rooms",
+        "duals",
+        "puzzle"
+    ]
+}

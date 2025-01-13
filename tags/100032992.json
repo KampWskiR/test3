@@ -1,0 +1,14 @@
+{
+    "style": [
+        "minigame"
+    ],
+    "theme": [
+        "retro"
+    ],
+    "meta": [],
+    "gameplay": [
+        "bossfight",
+        "avoidance",
+        "random"
+    ]
+}

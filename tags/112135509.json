@@ -1,0 +1,15 @@
+{
+    "style": [
+        "effect"
+    ],
+    "theme": [
+        "futuristic"
+    ],
+    "meta": [
+        "jetpack"
+    ],
+    "gameplay": [
+        "avoidance",
+        "classic"
+    ]
+}

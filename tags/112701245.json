@@ -1,0 +1,17 @@
+{
+    "style": [],
+    "theme": [
+        "monochromatic"
+    ],
+    "meta": [
+        "2p"
+    ],
+    "gameplay": [
+        "gimmicky",
+        "timed",
+        "momentum",
+        "cycle",
+        "blinkers",
+        "rooms"
+    ]
+}

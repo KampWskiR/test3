@@ -1,0 +1,11 @@
+{
+    "style": [],
+    "theme": [],
+    "meta": [],
+    "gameplay": [
+        "timed",
+        "cycle",
+        "rooms",
+        "gravity"
+    ]
+}

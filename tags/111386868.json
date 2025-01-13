@@ -1,17 +1,17 @@
 {
     "style": [
-        "design"
+        "effect"
     ],
     "theme": [
-        "hell"
+        "rainbow"
     ],
     "meta": [
-        "collab",
-        "ship"
+        "checkpointless",
+        "ball"
     ],
     "gameplay": [
         "fast paced",
-        "nerve control",
-        "chokepoints"
+        "timed",
+        "speedrun"
     ]
 }

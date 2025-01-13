@@ -1,0 +1,17 @@
+{
+    "style": [
+        "art"
+    ],
+    "theme": [],
+    "meta": [
+        "checkpointless",
+        "flashy",
+        "jetpack"
+    ],
+    "gameplay": [
+        "memory",
+        "gimmicky",
+        "avoidance",
+        "autoscroller"
+    ]
+}
