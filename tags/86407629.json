@@ -1,17 +1,1 @@
-{
-    "style": [
-        "design",
-        "core"
-    ],
-    "theme": [
-        "aquatic"
-    ],
-    "meta": [
-        "nong",
-        "cube",
-        "wave"
-    ],
-    "gameplay": [
-        "fast paced"
-    ]
-}
+{"style":["design","core"],"theme":["aquatic"],"meta":["nong","wave"],"gameplay":["fast paced"]}
