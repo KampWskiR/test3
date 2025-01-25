@@ -1,12 +1,1 @@
-{
-    "style": [
-        "glow",
-        "tech",
-        "atmospheric"
-    ],
-    "theme": [
-        "futuristic"
-    ],
-    "meta": [],
-    "gameplay": []
-}
+{"style":["glow","effect","minigame"],"theme":["futuristic"],"meta":["swing"],"gameplay":["sideways","chokepoints","gimmicky"]}
