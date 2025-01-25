@@ -1,11 +1,1 @@
-{
-    "style": [],
-    "theme": [],
-    "meta": [
-        "2p",
-        "robot"
-    ],
-    "gameplay": [
-        "bossfight"
-    ]
-}
+{"style":["pixel"],"meta":["2p","robot"],"gameplay":["bossfight","gimmicky","puzzle","cycle","force blocks","speedrun"]}
