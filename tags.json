@@ -2,7 +2,7 @@
   "style": ["standard","layout","generic","design","glow","effect","modern","simplism","tech","cartoon","art","realism","animation","pixel","core","atmospheric","experimental","circles","recreation","sunset","minigame"],
   "theme": ["1.0","1.9","hell","heaven","rainbow","retro","space","sky","robtop","city","acid","factory","apocalyptic","horror","anxious","mechanical","futuristic","pixel art","food","monochromatic","aquatic","nature","cold","hot","desert","fantasy"],
   "classic-meta": ["impossible","challenge","flashy","nong","collab","2p","nerf","buff","xxl","remake","story","fixed hitboxes","multi path","joke","jumpscares","cube","ship","ball","ufo","wave","robot","spider","swing"],
-  "plat-meta": ["impossible","flashy","nong","checkpointless","collab","2p","nerf","buff","remake","story","fixed hitboxes","multi path","joke","jumpscares","cube","jetpack","ball","ufo","robot","spider"],
+  "plat-meta": ["impossible","flashy","nong","checkpointless","collab","2p","nerf","buff","xxl","remake","story","fixed hitboxes","multi path","joke","jumpscares","cube","jetpack","ball","ufo","robot","spider"],
   "classic-gp": ["bossfight","flow","fast paced","slow paced","sync","blinds","memory","duals","timing","sideways","random","high cps","nerve control","learny","chokepoints","gimmicky","gravity","straight fly"],
   "plat-gp": ["bossfight","memory","spam","duals","maze","fast paced","slow paced","sync","gimmicky","timing","needle","timed","puzzle","blinds","momentum","wall jump","cycle","slope boost","slippery","zippers","wavedash","force blocks","blinkers","avoidance","foddian","autoscroller","rooms","double jump","speedrun","gravity","classic","metroidvania","random"]
 }
