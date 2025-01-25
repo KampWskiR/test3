@@ -1,14 +1,1 @@
-{
-    "style": [
-        "pixel"
-    ],
-    "theme": [
-        "cold"
-    ],
-    "meta": [
-        "cube"
-    ],
-    "gameplay": [
-        "cycle"
-    ]
-}
+{"style":["pixel"],"theme":["cold"],"meta":["cube"],"gameplay":["cycle","slippery"]}
