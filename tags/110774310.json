@@ -1,12 +1,1 @@
-{
-    "style": [
-        "glow",
-        "design"
-    ],
-    "theme": [
-        "space",
-        "futuristic"
-    ],
-    "meta": [],
-    "gameplay": []
-}
+{"style":["design","glow"],"theme":["space","futuristic"],"meta":["xxl"]}
