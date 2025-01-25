@@ -1,17 +1,1 @@
-{
-    "style": [
-        "effect"
-    ],
-    "theme": [
-        "rainbow"
-    ],
-    "meta": [
-        "checkpointless",
-        "ball"
-    ],
-    "gameplay": [
-        "fast paced",
-        "timed",
-        "speedrun"
-    ]
-}
+{"style":["glow","simplism","sunset"],"meta":["checkpointless","ball"],"gameplay":["fast paced","timed","speedrun"]}
