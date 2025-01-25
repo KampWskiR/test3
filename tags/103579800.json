@@ -1,14 +1,1 @@
-{
-    "style": [
-        "minigame"
-    ],
-    "theme": [],
-    "meta": [
-        "jetpack"
-    ],
-    "gameplay": [
-        "bossfight",
-        "rooms",
-        "gravity"
-    ]
-}
+{"style":["minigame"],"meta":["jetpack"],"gameplay":["bossfight","timed","force blocks","rooms","gravity"]}
