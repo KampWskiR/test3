@@ -1,15 +1,1 @@
-{
-    "style": [
-        "pixel"
-    ],
-    "theme": [
-        "cold"
-    ],
-    "meta": [],
-    "gameplay": [
-        "duals",
-        "cycle",
-        "blinkers",
-        "gravity"
-    ]
-}
+{"style":["pixel"],"theme":["cold"],"gameplay":["duals","cycle","slippery","blinkers","gravity"]}
