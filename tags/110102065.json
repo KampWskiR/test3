@@ -1,12 +1,1 @@
-{
-    "style": [
-        "pixel"
-    ],
-    "theme": [],
-    "meta": [
-        "robot"
-    ],
-    "gameplay": [
-        "foddian"
-    ]
-}
+{"style":["pixel"],"meta":["checkpointless","robot"],"gameplay":["slippery"]}
