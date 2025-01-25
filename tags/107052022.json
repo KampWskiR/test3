@@ -1,14 +1,1 @@
-{
-    "style": [
-        "pixel",
-        "atmospheric"
-    ],
-    "theme": [],
-    "meta": [
-        "robot"
-    ],
-    "gameplay": [
-        "slow paced",
-        "needle"
-    ]
-}
+{"style":["pixel","atmospheric"],"meta":["robot"],"gameplay":["needle","force blocks"]}
