@@ -1,11 +1,1 @@
-{
-    "style": [
-        "generic"
-    ],
-    "theme": [],
-    "meta": [],
-    "gameplay": [
-        "duals",
-        "fast paced"
-    ]
-}
+{"style":["generic"],"gameplay":["fast paced","duals"]}
