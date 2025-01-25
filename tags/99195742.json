@@ -1,14 +1,1 @@
-{
-    "style": [
-        "simplism",
-        "atmospheric"
-    ],
-    "theme": [],
-    "meta": [
-        "jetpack",
-        "swing"
-    ],
-    "gameplay": [
-        "needle"
-    ]
-}
+{"style":["simplism"],"theme":["sky"],"meta":["jetpack"],"gameplay":["needle"]}
