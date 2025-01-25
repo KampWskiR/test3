@@ -1,18 +1,1 @@
-{
-    "style": [
-        "design",
-        "circles"
-    ],
-    "theme": [
-        "hell"
-    ],
-    "meta": [
-        "flashy",
-        "wave"
-    ],
-    "gameplay": [
-        "fast paced",
-        "memory",
-        "timing"
-    ]
-}
+{"style":["design","circles"],"theme":["hell"],"meta":["flashy","wave"],"gameplay":["high cps"]}
