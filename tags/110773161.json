@@ -1,17 +1,1 @@
-{
-    "style": [
-        "art",
-        "cartoon"
-    ],
-    "theme": [
-        "rainbow"
-    ],
-    "meta": [
-        "flashy"
-    ],
-    "gameplay": [
-        "duals",
-        "fast paced",
-        "sync"
-    ]
-}
+{"style":["art","experimental"],"theme":["abstract"],"meta":["flashy"],"gameplay":["fast paced","sync","duals"]}
