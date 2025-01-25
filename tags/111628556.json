@@ -1,13 +1,1 @@
-{
-    "style": [
-        "pixel"
-    ],
-    "theme": [],
-    "meta": [
-        "cube"
-    ],
-    "gameplay": [
-        "wall jump",
-        "double jump"
-    ]
-}
+{"style":["pixel"],"meta":["cube"],"gameplay":["wall jump","slippery","double jump"]}
