@@ -1,12 +1,1 @@
-{
-    "style": [
-        "generic"
-    ],
-    "theme": [],
-    "meta": [
-        "flashy"
-    ],
-    "gameplay": [
-        "sync"
-    ]
-}
+{"style": ["generic"], "meta": ["flashy"], "gameplay": ["sync"]}

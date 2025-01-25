@@ -1,16 +1,1 @@
-{
-    "style": [
-        "cartoon",
-        "art",
-        "animation",
-        "atmospheric"
-    ],
-    "theme": [
-        "cold"
-    ],
-    "meta": [],
-    "gameplay": [
-        "slow paced",
-        "sync"
-    ]
-}
+{"style": ["cartoon", "art", "animation", "atmospheric"], "theme": ["cold"], "gameplay": ["slow paced", "sync"]}

@@ -1,14 +1,1 @@
-{
-    "style": [
-        "minigame"
-    ],
-    "theme": [
-        "retro"
-    ],
-    "meta": [],
-    "gameplay": [
-        "bossfight",
-        "avoidance",
-        "random"
-    ]
-}
+{"style": ["minigame"], "theme": ["retro"], "gameplay": ["bossfight", "avoidance", "random"]}

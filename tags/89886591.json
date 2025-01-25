@@ -1,16 +1,1 @@
-{
-    "style": [
-        "effect",
-        "modern",
-        "simplism"
-    ],
-    "theme": [],
-    "meta": [
-        "flashy"
-    ],
-    "gameplay": [
-        "bossfight",
-        "fast paced",
-        "learny"
-    ]
-}
+{"style": ["effect", "modern", "simplism"], "meta": ["flashy"], "gameplay": ["bossfight", "fast paced", "learny"]}

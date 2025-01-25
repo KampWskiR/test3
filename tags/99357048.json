@@ -1,15 +1,1 @@
-{
-    "style": [
-        "art"
-    ],
-    "theme": [],
-    "meta": [
-        "checkpointless",
-        "cube"
-    ],
-    "gameplay": [
-        "wall jump",
-        "cycle",
-        "gravity"
-    ]
-}
+{"style": ["art"], "meta": ["checkpointless", "cube"], "gameplay": ["wall jump", "cycle", "gravity"]}

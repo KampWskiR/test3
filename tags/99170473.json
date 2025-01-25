@@ -1,17 +1,1 @@
-{
-    "style": [
-        "pixel",
-        "simplism"
-    ],
-    "theme": [],
-    "meta": [
-        "cube",
-        "ball"
-    ],
-    "gameplay": [
-        "slow paced",
-        "cycle",
-        "timed",
-        "rooms"
-    ]
-}
+{"style": ["pixel", "simplism"], "meta": ["cube", "ball"], "gameplay": ["slow paced", "cycle", "timed", "rooms"]}

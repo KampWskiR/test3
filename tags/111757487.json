@@ -1,12 +1,1 @@
-{
-    "style": [
-        "simplism"
-    ],
-    "theme": [],
-    "meta": [
-        "flashy"
-    ],
-    "gameplay": [
-        "rooms"
-    ]
-}
+{"style": ["simplism"], "meta": ["flashy"], "gameplay": ["rooms"]}

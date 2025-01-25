@@ -1,17 +1,1 @@
-{
-    "style": [
-        "design",
-        "experimental"
-    ],
-    "theme": [],
-    "meta": [
-        "flashy"
-    ],
-    "gameplay": [
-        "memory",
-        "timing",
-        "learny",
-        "gimmicky",
-        "nerve control"
-    ]
-}
+{"style": ["design", "experimental"], "meta": ["flashy"], "gameplay": ["memory", "timing", "learny", "gimmicky", "nerve control"]}

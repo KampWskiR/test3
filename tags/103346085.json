@@ -1,18 +1,1 @@
-{
-    "style": [
-        "design"
-    ],
-    "theme": [
-        "rainbow",
-        "futuristic"
-    ],
-    "meta": [],
-    "gameplay": [
-        "rooms",
-        "momentum",
-        "timed",
-        "wavedash",
-        "slope boost",
-        "fast paced"
-    ]
-}
+{"style": ["design"], "theme": ["rainbow", "futuristic"], "gameplay": ["rooms", "momentum", "timed", "wavedash", "slope boost", "fast paced"]}

@@ -1,13 +1,1 @@
-{
-    "style": [
-        "standard"
-    ],
-    "theme": [
-        "robtop"
-    ],
-    "meta": [
-        "remake",
-        "cube"
-    ],
-    "gameplay": []
-}
+{"style": ["standard"], "theme": ["robtop"], "meta": ["remake", "cube"]}

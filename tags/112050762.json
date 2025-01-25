@@ -1,16 +1,1 @@
-{
-    "style": [
-        "simplism"
-    ],
-    "theme": [
-        "monochromatic"
-    ],
-    "meta": [
-        "cube",
-        "robot"
-    ],
-    "gameplay": [
-        "blinds",
-        "cycle"
-    ]
-}
+{"style": ["simplism"], "theme": ["monochromatic"], "meta": ["cube", "robot"], "gameplay": ["blinds", "cycle"]}

@@ -1,17 +1,1 @@
-{
-    "style": [],
-    "theme": [],
-    "meta": [
-        "robot",
-        "checkpointless"
-    ],
-    "gameplay": [
-        "gimmicky",
-        "timed",
-        "momentum",
-        "cycle",
-        "force blocks",
-        "double jump",
-        "gravity"
-    ]
-}
+{"meta": ["robot", "checkpointless"], "gameplay": ["gimmicky", "timed", "momentum", "cycle", "force blocks", "double jump", "gravity"]}

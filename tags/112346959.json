@@ -1,14 +1,1 @@
-{
-    "style": [
-        "minigame",
-        "recreation"
-    ],
-    "theme": [],
-    "meta": [
-        "2p",
-        "flashy"
-    ],
-    "gameplay": [
-        "random"
-    ]
-}
+{"style": ["minigame", "recreation"], "meta": ["2p", "flashy"], "gameplay": ["random"]}

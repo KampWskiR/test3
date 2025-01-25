@@ -1,15 +1,1 @@
-{
-    "style": [
-        "pixel"
-    ],
-    "theme": [
-        "cold"
-    ],
-    "meta": [
-        "cube"
-    ],
-    "gameplay": [
-        "gimmicky",
-        "classic"
-    ]
-}
+{"style": ["pixel"], "theme": ["cold"], "meta": ["cube"], "gameplay": ["gimmicky", "classic"]}

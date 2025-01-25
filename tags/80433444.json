@@ -1,12 +1,1 @@
-{
-    "style": [
-        "modern"
-    ],
-    "theme": [],
-    "meta": [],
-    "gameplay": [
-        "slow paced",
-        "memory",
-        "learny"
-    ]
-}
+{"style": ["modern"], "gameplay": ["slow paced", "memory", "learny"]}

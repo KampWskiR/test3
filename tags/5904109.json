@@ -1,14 +1,1 @@
-{
-    "style": [
-        "standard"
-    ],
-    "theme": [
-        "rainbow"
-    ],
-    "meta": [
-        "ship"
-    ],
-    "gameplay": [
-        "learny"
-    ]
-}
+{"style": ["standard"], "theme": ["rainbow"], "meta": ["ship"], "gameplay": ["learny"]}

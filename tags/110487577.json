@@ -1,12 +1,1 @@
-{
-    "style": [
-        "generic",
-        "glow",
-        "circles"
-    ],
-    "theme": [],
-    "meta": [
-        "wave"
-    ],
-    "gameplay": []
-}
+{"style": ["generic", "glow", "circles"], "meta": ["wave"]}

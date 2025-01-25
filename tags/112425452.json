@@ -1,17 +1,1 @@
-{
-    "style": [
-        "design",
-        "tech",
-        "art"
-    ],
-    "theme": [
-        "space"
-    ],
-    "meta": [
-        "flashy"
-    ],
-    "gameplay": [
-        "flow",
-        "fast paced"
-    ]
-}
+{"style": ["design", "tech", "art"], "theme": ["space"], "meta": ["flashy"], "gameplay": ["flow", "fast paced"]}

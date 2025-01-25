@@ -1,16 +1,1 @@
-{
-    "style": [
-        "modern"
-    ],
-    "theme": [],
-    "meta": [
-        "jetpack"
-    ],
-    "gameplay": [
-        "maze",
-        "rooms",
-        "needle",
-        "timed",
-        "cycle"
-    ]
-}
+{"style": ["modern"], "meta": ["jetpack"], "gameplay": ["maze", "rooms", "needle", "timed", "cycle"]}

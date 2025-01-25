@@ -1,15 +1,1 @@
-{
-    "style": [
-        "modern",
-        "simplism"
-    ],
-    "theme": [],
-    "meta": [
-        "cube"
-    ],
-    "gameplay": [
-        "gimmicky",
-        "puzzle",
-        "rooms"
-    ]
-}
+{"style": ["modern", "simplism"], "meta": ["cube"], "gameplay": ["gimmicky", "puzzle", "rooms"]}

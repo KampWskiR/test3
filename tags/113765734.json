@@ -1,13 +1,1 @@
-{
-    "style": [
-        "modern",
-        "cartoon"
-    ],
-    "theme": [],
-    "meta": [
-        "flashy"
-    ],
-    "gameplay": [
-        "fast paced"
-    ]
-}
+{"style": ["modern", "cartoon"], "meta": ["flashy"], "gameplay": ["fast paced"]}

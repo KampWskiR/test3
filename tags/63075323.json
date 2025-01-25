@@ -1,16 +1,1 @@
-{
-    "style": [
-        "simplism"
-    ],
-    "theme": [
-        "monochromatic"
-    ],
-    "meta": [
-        "flashy"
-    ],
-    "gameplay": [
-        "fast paced",
-        "sync",
-        "memory"
-    ]
-}
+{"style": ["simplism"], "theme": ["monochromatic"], "meta": ["flashy"], "gameplay": ["fast paced", "sync", "memory"]}

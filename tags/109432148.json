@@ -1,16 +1,1 @@
-{
-    "style": [
-        "art",
-        "tech"
-    ],
-    "theme": [
-        "space",
-        "futuristic"
-    ],
-    "meta": [],
-    "gameplay": [
-        "bossfight",
-        "learny",
-        "fast paced"
-    ]
-}
+{"style": ["art", "tech"], "theme": ["space", "futuristic"], "gameplay": ["bossfight", "learny", "fast paced"]}

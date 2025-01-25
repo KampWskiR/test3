@@ -1,14 +1,1 @@
-{
-    "style": [
-        "minigame",
-        "atmospheric"
-    ],
-    "theme": [],
-    "meta": [
-        "2p"
-    ],
-    "gameplay": [
-        "bossfight",
-        "gimmicky"
-    ]
-}
+{"style": ["minigame", "atmospheric"], "meta": ["2p"], "gameplay": ["bossfight", "gimmicky"]}

@@ -1,13 +1,1 @@
-{
-    "style": [
-        "standard",
-        "design"
-    ],
-    "theme": [
-        "1.9"
-    ],
-    "meta": [],
-    "gameplay": [
-        "nerve control"
-    ]
-}
+{"style": ["standard", "design"], "theme": ["1.9"], "gameplay": ["nerve control"]}

@@ -1,14 +1,1 @@
-{
-    "style": [
-        "art",
-        "animation"
-    ],
-    "theme": [],
-    "meta": [
-        "joke"
-    ],
-    "gameplay": [
-        "duals",
-        "bossfight"
-    ]
-}
+{"style": ["art", "animation"], "meta": ["joke"], "gameplay": ["duals", "bossfight"]}

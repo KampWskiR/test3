@@ -1,16 +1,1 @@
-{
-    "style": [
-        "modern"
-    ],
-    "theme": [],
-    "meta": [
-        "2p",
-        "cube"
-    ],
-    "gameplay": [
-        "gimmicky",
-        "puzzle",
-        "double jump",
-        "rooms"
-    ]
-}
+{"style": ["modern"], "meta": ["2p", "cube"], "gameplay": ["gimmicky", "puzzle", "double jump", "rooms"]}

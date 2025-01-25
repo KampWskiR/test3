@@ -1,18 +1,1 @@
-{
-    "style": [
-        "design"
-    ],
-    "theme": [
-        "hell"
-    ],
-    "meta": [
-        "remake",
-        "ufo"
-    ],
-    "gameplay": [
-        "fast paced",
-        "timing",
-        "learny",
-        "chokepoints"
-    ]
-}
+{"style": ["design"], "theme": ["hell"], "meta": ["remake", "ufo"], "gameplay": ["fast paced", "timing", "learny", "chokepoints"]}

@@ -1,12 +1,1 @@
-{
-    "style": [
-        "pixel"
-    ],
-    "theme": [],
-    "meta": [],
-    "gameplay": [
-        "bossfight",
-        "fast paced",
-        "gimmicky"
-    ]
-}
+{"style": ["pixel"], "gameplay": ["bossfight", "fast paced", "gimmicky"]}

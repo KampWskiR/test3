@@ -1,14 +1,1 @@
-{
-    "style": [
-        "glow"
-    ],
-    "theme": [],
-    "meta": [
-        "cube"
-    ],
-    "gameplay": [
-        "needle",
-        "cycle",
-        "rooms"
-    ]
-}
+{"style": ["glow"], "meta": ["cube"], "gameplay": ["needle", "cycle", "rooms"]}

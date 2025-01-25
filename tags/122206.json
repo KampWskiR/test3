@@ -1,12 +1,1 @@
-{
-    "style": [
-        "standard"
-    ],
-    "theme": [],
-    "meta": [
-        "ball"
-    ],
-    "gameplay": [
-        "blinds"
-    ]
-}
+{"style": ["standard"], "meta": ["ball"], "gameplay": ["blinds"]}

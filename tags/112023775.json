@@ -1,13 +1,1 @@
-{
-    "style": [
-        "standard"
-    ],
-    "theme": [
-        "robtop"
-    ],
-    "meta": [],
-    "gameplay": [
-        "fast paced",
-        "duals"
-    ]
-}
+{"style": ["standard"], "theme": ["robtop"], "gameplay": ["fast paced", "duals"]}

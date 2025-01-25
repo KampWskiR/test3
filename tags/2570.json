@@ -1,11 +1,1 @@
-{
-    "style": [
-        "standard"
-    ],
-    "theme": [],
-    "meta": [
-        "flashy",
-        "cube"
-    ],
-    "gameplay": []
-}
+{"style": ["standard"], "meta": ["flashy", "cube"]}

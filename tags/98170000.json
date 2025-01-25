@@ -1,17 +1,1 @@
-{
-    "style": [
-        "art"
-    ],
-    "theme": [
-        "cold"
-    ],
-    "meta": [
-        "cube"
-    ],
-    "gameplay": [
-        "fast paced",
-        "momentum",
-        "slippery",
-        "force blocks"
-    ]
-}
+{"style": ["art"], "theme": ["cold"], "meta": ["cube"], "gameplay": ["fast paced", "momentum", "slippery", "force blocks"]}

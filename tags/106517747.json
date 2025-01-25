@@ -1,16 +1,1 @@
-{
-    "style": [
-        "art",
-        "animation",
-        "realism",
-        "atmospheric"
-    ],
-    "theme": [
-        "nature",
-        "magic"
-    ],
-    "meta": [],
-    "gameplay": [
-        "sync"
-    ]
-}
+{"style": ["art", "animation", "realism", "atmospheric"], "theme": ["nature", "magic"], "gameplay": ["sync"]}

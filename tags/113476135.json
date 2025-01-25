@@ -1,15 +1,1 @@
-{
-    "style": [
-        "glow",
-        "modern"
-    ],
-    "theme": [],
-    "meta": [
-        "flashy"
-    ],
-    "gameplay": [
-        "flow",
-        "fast paced",
-        "sync"
-    ]
-}
+{"style": ["glow", "modern"], "meta": ["flashy"], "gameplay": ["flow", "fast paced", "sync"]}

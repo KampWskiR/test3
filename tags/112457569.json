@@ -1,11 +1,1 @@
-{
-    "style": [],
-    "theme": [],
-    "meta": [
-        "jetpack"
-    ],
-    "gameplay": [
-        "cycle",
-        "avoidance"
-    ]
-}
+{"meta": ["jetpack"], "gameplay": ["cycle", "avoidance"]}

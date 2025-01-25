@@ -1,10 +1,1 @@
-{
-    "style": [],
-    "theme": [],
-    "meta": [
-        "impossible"
-    ],
-    "gameplay": [
-        "memory"
-    ]
-}
+{"meta": ["impossible"], "gameplay": ["memory"]}

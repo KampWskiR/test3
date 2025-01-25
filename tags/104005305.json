@@ -1,10 +1,1 @@
-{
-    "style": [
-        "pixel"
-    ],
-    "theme": [],
-    "meta": [],
-    "gameplay": [
-        "maze"
-    ]
-}
+{"style": ["pixel"], "gameplay": ["maze"]}

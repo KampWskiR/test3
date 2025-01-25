@@ -1,14 +1,1 @@
-{
-    "style": [
-        "standard"
-    ],
-    "theme": [],
-    "meta": [
-        "cube",
-        "ball"
-    ],
-    "gameplay": [
-        "blinds",
-        "learny"
-    ]
-}
+{"style": ["standard"], "meta": ["cube", "ball"], "gameplay": ["blinds", "learny"]}

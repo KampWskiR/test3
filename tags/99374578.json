@@ -1,10 +1,1 @@
-{
-    "style": [],
-    "theme": [
-        "space"
-    ],
-    "meta": [],
-    "gameplay": [
-        "gravity"
-    ]
-}
+{"theme": ["space"], "gameplay": ["gravity"]}

@@ -1,13 +1,1 @@
-{
-    "style": [
-        "simplism"
-    ],
-    "theme": [],
-    "meta": [
-        "cube"
-    ],
-    "gameplay": [
-        "sync",
-        "cycle"
-    ]
-}
+{"style": ["simplism"], "meta": ["cube"], "gameplay": ["sync", "cycle"]}

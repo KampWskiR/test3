@@ -1,14 +1,1 @@
-{
-    "style": [
-        "simplism"
-    ],
-    "theme": [],
-    "meta": [
-        "cube"
-    ],
-    "gameplay": [
-        "slow paced",
-        "gimmicky",
-        "puzzle"
-    ]
-}
+{"style": ["simplism"], "meta": ["cube"], "gameplay": ["slow paced", "gimmicky", "puzzle"]}

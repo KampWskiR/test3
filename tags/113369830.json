@@ -1,11 +1,1 @@
-{
-    "style": [],
-    "theme": [
-        "cold"
-    ],
-    "meta": [
-        "cube",
-        "robot"
-    ],
-    "gameplay": []
-}
+{"theme": ["cold"], "meta": ["cube", "robot"]}

@@ -1,15 +1,1 @@
-{
-    "style": [
-        "recreation",
-        "pixel"
-    ],
-    "theme": [],
-    "meta": [
-        "2p",
-        "jetpack"
-    ],
-    "gameplay": [
-        "bossfight",
-        "gimmicky"
-    ]
-}
+{"style": ["recreation", "pixel"], "meta": ["2p", "jetpack"], "gameplay": ["bossfight", "gimmicky"]}

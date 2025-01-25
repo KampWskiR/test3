@@ -1,17 +1,1 @@
-{
-    "style": [
-        "design",
-        "modern",
-        "art"
-    ],
-    "theme": [
-        "aquatic"
-    ],
-    "meta": [
-        "flashy",
-        "collab"
-    ],
-    "gameplay": [
-        "fast paced"
-    ]
-}
+{"style": ["design", "modern", "art"], "theme": ["aquatic"], "meta": ["flashy", "collab"], "gameplay": ["fast paced", "timing", "chokepoints"]}

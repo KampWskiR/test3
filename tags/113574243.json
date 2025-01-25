@@ -1,18 +1,1 @@
-{
-    "style": [
-        "glow",
-        "atmospheric",
-        "experimental"
-    ],
-    "theme": [],
-    "meta": [
-        "flashy",
-        "nong",
-        "xxl",
-        "cube"
-    ],
-    "gameplay": [
-        "learny",
-        "chokepoints"
-    ]
-}
+{"style": ["glow", "atmospheric", "experimental"], "meta": ["flashy", "nong", "xxl", "cube"], "gameplay": ["learny", "chokepoints"]}

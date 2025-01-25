@@ -1,12 +1,1 @@
-{
-    "style": [
-        "standard"
-    ],
-    "theme": [],
-    "meta": [
-        "multi path",
-        "cube",
-        "ball"
-    ],
-    "gameplay": []
-}
+{"style": ["standard"], "meta": ["multi path", "cube", "ball"]}

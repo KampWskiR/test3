@@ -1,14 +1,1 @@
-{
-    "style": [
-        "pixel"
-    ],
-    "theme": [
-        "cold"
-    ],
-    "meta": [],
-    "gameplay": [
-        "momentum",
-        "wavedash",
-        "slippery"
-    ]
-}
+{"style": ["pixel"], "theme": ["cold"], "gameplay": ["momentum", "wavedash", "slippery"]}

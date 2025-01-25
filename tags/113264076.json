@@ -1,13 +1,1 @@
-{
-    "style": [
-        "minigame"
-    ],
-    "theme": [],
-    "meta": [
-        "flashy"
-    ],
-    "gameplay": [
-        "gimmicky",
-        "sync"
-    ]
-}
+{"style": ["minigame"], "meta": ["flashy"], "gameplay": ["gimmicky", "sync"]}

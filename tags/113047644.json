@@ -1,14 +1,1 @@
-{
-    "style": [
-        "pixel"
-    ],
-    "theme": [
-        "robtop"
-    ],
-    "meta": [
-        "cube"
-    ],
-    "gameplay": [
-        "cycle"
-    ]
-}
+{"style": ["pixel"], "theme": ["robtop"], "meta": ["cube"], "gameplay": ["cycle"]}

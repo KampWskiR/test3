@@ -1,17 +1,1 @@
-{
-    "style": [
-        "simplism"
-    ],
-    "theme": [
-        "retro",
-        "pixel art"
-    ],
-    "meta": [
-        "2p",
-        "cube"
-    ],
-    "gameplay": [
-        "needle",
-        "force blocks"
-    ]
-}
+{"style": ["simplism"], "theme": ["retro", "pixel art"], "meta": ["2p", "cube"], "gameplay": ["needle", "force blocks"]}

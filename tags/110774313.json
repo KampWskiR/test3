@@ -1,14 +1,1 @@
-{
-    "style": [
-        "design",
-        "art",
-        "animation"
-    ],
-    "theme": [
-        "apocalyptic"
-    ],
-    "meta": [],
-    "gameplay": [
-        "fast paced"
-    ]
-}
+{"style": ["design", "art", "animation"], "theme": ["apocalyptic"], "gameplay": ["fast paced"]}

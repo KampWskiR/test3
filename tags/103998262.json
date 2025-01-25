@@ -1,16 +1,1 @@
-{
-    "style": [],
-    "theme": [],
-    "meta": [
-        "checkpointless",
-        "story",
-        "cube"
-    ],
-    "gameplay": [
-        "wavedash",
-        "needle",
-        "momentum",
-        "slope boost",
-        "spam"
-    ]
-}
+{"meta": ["checkpointless", "story", "cube"], "gameplay": ["wavedash", "needle", "momentum", "slope boost", "spam"]}

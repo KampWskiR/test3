@@ -1,11 +1,1 @@
-{
-    "style": [],
-    "theme": [
-        "pixel art",
-        "nature"
-    ],
-    "meta": [],
-    "gameplay": [
-        "slow paced"
-    ]
-}
+{"theme": ["pixel art", "nature"], "gameplay": ["slow paced"]}

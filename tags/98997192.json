@@ -1,12 +1,1 @@
-{
-    "style": [
-        "pixel"
-    ],
-    "theme": [],
-    "meta": [
-        "robot"
-    ],
-    "gameplay": [
-        "needle"
-    ]
-}
+{"style": ["pixel"], "meta": ["robot"], "gameplay": ["needle"]}

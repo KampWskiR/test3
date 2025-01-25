@@ -1,15 +1,1 @@
-{
-    "style": [
-        "standard"
-    ],
-    "theme": [
-        "monochromatic",
-        "1.0"
-    ],
-    "meta": [],
-    "gameplay": [
-        "sync",
-        "blinds",
-        "timing"
-    ]
-}
+{"style": ["standard"], "theme": ["monochromatic", "1.0"], "gameplay": ["sync", "blinds", "timing"]}

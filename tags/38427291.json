@@ -1,14 +1,1 @@
-{
-    "style": [
-        "generic"
-    ],
-    "theme": [],
-    "meta": [
-        "ship"
-    ],
-    "gameplay": [
-        "fast paced",
-        "timing",
-        "chokepoints"
-    ]
-}
+{"style": ["generic"], "meta": ["ship"], "gameplay": ["fast paced", "timing", "chokepoints"]}

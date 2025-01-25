@@ -1,13 +1,1 @@
-{
-    "style": [],
-    "theme": [],
-    "meta": [
-        "checkpointless",
-        "nong",
-        "cube"
-    ],
-    "gameplay": [
-        "speedrun",
-        "random"
-    ]
-}
+{"meta": ["checkpointless", "nong", "cube"], "gameplay": ["speedrun", "random"]}

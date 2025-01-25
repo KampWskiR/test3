@@ -1,15 +1,1 @@
-{
-    "style": [
-        "pixel"
-    ],
-    "theme": [],
-    "meta": [
-        "fixed hitboxes",
-        "ball"
-    ],
-    "gameplay": [
-        "needle",
-        "puzzle",
-        "blinds"
-    ]
-}
+{"style": ["pixel"], "meta": ["fixed hitboxes", "ball"], "gameplay": ["needle", "puzzle", "blinds"]}

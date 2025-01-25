@@ -1,11 +1,1 @@
-{
-    "style": [
-        "pixel"
-    ],
-    "theme": [],
-    "meta": [],
-    "gameplay": [
-        "bossfight",
-        "wavedash"
-    ]
-}
+{"style": ["pixel"], "gameplay": ["bossfight", "wavedash"]}

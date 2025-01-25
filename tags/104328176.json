@@ -1,12 +1,1 @@
-{
-    "style": [
-        "pixel",
-        "minigame"
-    ],
-    "theme": [],
-    "meta": [],
-    "gameplay": [
-        "gimmicky",
-        "rooms"
-    ]
-}
+{"style": ["pixel", "minigame"], "gameplay": ["gimmicky", "rooms"]}

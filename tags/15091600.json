@@ -1,12 +1,1 @@
-{
-    "style": [
-        "sunset"
-    ],
-    "theme": [
-        "space"
-    ],
-    "meta": [],
-    "gameplay": [
-        "slow paced"
-    ]
-}
+{"style": ["sunset"], "theme": ["space"], "gameplay": ["slow paced"]}

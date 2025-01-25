@@ -1,12 +1,1 @@
-{
-    "style": [],
-    "theme": [],
-    "meta": [
-        "cube"
-    ],
-    "gameplay": [
-        "gimmicky",
-        "force blocks",
-        "rooms"
-    ]
-}
+{"meta": ["cube"], "gameplay": ["gimmicky", "force blocks", "rooms"]}

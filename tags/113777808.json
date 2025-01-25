@@ -1,13 +1,1 @@
-{
-    "style": [
-        "pixel"
-    ],
-    "theme": [
-        "cold",
-        "hot"
-    ],
-    "meta": [],
-    "gameplay": [
-        "fast paced"
-    ]
-}
+{"style": ["pixel"], "theme": ["cold", "hot"], "gameplay": ["fast paced"]}

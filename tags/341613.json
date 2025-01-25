@@ -1,14 +1,1 @@
-{
-    "style": [
-        "standard"
-    ],
-    "theme": [
-        "robtop"
-    ],
-    "meta": [
-        "buff"
-    ],
-    "gameplay": [
-        "learny"
-    ]
-}
+{"style": ["standard"], "theme": ["robtop"], "meta": ["buff"], "gameplay": ["learny"]}

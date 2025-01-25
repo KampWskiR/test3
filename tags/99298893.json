@@ -1,12 +1,1 @@
-{
-    "style": [],
-    "theme": [],
-    "meta": [
-        "ufo"
-    ],
-    "gameplay": [
-        "needle",
-        "rooms",
-        "spam"
-    ]
-}
+{"meta": ["ufo"], "gameplay": ["needle", "rooms", "spam"]}

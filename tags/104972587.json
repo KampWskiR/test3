@@ -1,6 +1,1 @@
-{
-    "style": [],
-    "theme": [],
-    "meta": [],
-    "gameplay": []
-}
+{"style": ["simplism", "recreation"], "meta": ["fixed hitboxes"], "gameplay": ["memory", "gimmicky", "timed", "cycle", "force blocks", "autoscroller", "rooms", "gravity"]}

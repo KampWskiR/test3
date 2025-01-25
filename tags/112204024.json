@@ -1,15 +1,1 @@
-{
-    "style": [
-        "art"
-    ],
-    "theme": [],
-    "meta": [
-        "flashy"
-    ],
-    "gameplay": [
-        "fast paced",
-        "timing",
-        "learny",
-        "gimmicky"
-    ]
-}
+{"style": ["art"], "meta": ["flashy"], "gameplay": ["fast paced", "timing", "learny", "gimmicky"]}

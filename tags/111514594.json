@@ -1,14 +1,1 @@
-{
-    "style": [
-        "modern",
-        "tech"
-    ],
-    "theme": [],
-    "meta": [
-        "robot"
-    ],
-    "gameplay": [
-        "avoidance",
-        "autoscroller"
-    ]
-}
+{"style": ["modern", "tech"], "meta": ["robot"], "gameplay": ["avoidance", "autoscroller"]}

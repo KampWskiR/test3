@@ -1,14 +1,1 @@
-{
-    "style": [],
-    "theme": [],
-    "meta": [
-        "robot"
-    ],
-    "gameplay": [
-        "avoidance",
-        "needle",
-        "memory",
-        "cycle",
-        "rooms"
-    ]
-}
+{"meta": ["robot"], "gameplay": ["avoidance", "needle", "memory", "cycle", "rooms"]}

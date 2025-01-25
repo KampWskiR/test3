@@ -1,12 +1,1 @@
-{
-    "style": [
-        "pixel"
-    ],
-    "theme": [],
-    "meta": [],
-    "gameplay": [
-        "avoidance",
-        "speedrun",
-        "cycle"
-    ]
-}
+{"style": ["pixel"], "gameplay": ["avoidance", "speedrun", "cycle"]}

@@ -1,16 +1,1 @@
-{
-    "style": [
-        "art",
-        "realism"
-    ],
-    "theme": [
-        "nature"
-    ],
-    "meta": [
-        "cube"
-    ],
-    "gameplay": [
-        "fast paced",
-        "sync"
-    ]
-}
+{"style": ["art", "realism"], "theme": ["nature"], "meta": ["cube"], "gameplay": ["fast paced", "sync"]}

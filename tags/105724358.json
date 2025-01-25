@@ -1,14 +1,1 @@
-{
-    "style": [
-        "simplism"
-    ],
-    "theme": [],
-    "meta": [
-        "nong",
-        "checkpointless",
-        "robot"
-    ],
-    "gameplay": [
-        "needle"
-    ]
-}
+{"style": ["simplism"], "meta": ["nong", "checkpointless", "robot"], "gameplay": ["needle"]}

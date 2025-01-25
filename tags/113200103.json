@@ -1,13 +1,1 @@
-{
-    "style": [
-        "pixel"
-    ],
-    "theme": [
-        "futuristic",
-        "nature"
-    ],
-    "meta": [],
-    "gameplay": [
-        "slow paced"
-    ]
-}
+{"style": ["pixel"], "theme": ["futuristic", "nature"], "gameplay": ["slow paced"]}

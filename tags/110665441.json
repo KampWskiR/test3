@@ -1,14 +1,1 @@
-{
-    "style": [
-        "design",
-        "atmospheric",
-        "tech"
-    ],
-    "theme": [
-        "apocalyptic",
-        "futuristic",
-        "nature"
-    ],
-    "meta": [],
-    "gameplay": []
-}
+{"style": ["design", "atmospheric", "tech"], "theme": ["apocalyptic", "futuristic", "nature"]}

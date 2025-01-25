@@ -1,17 +1,1 @@
-{
-    "style": [
-        "simplism"
-    ],
-    "theme": [
-        "rainbow"
-    ],
-    "meta": [
-        "checkpointless",
-        "fixed hitboxes",
-        "cube",
-        "robot"
-    ],
-    "gameplay": [
-        "gravity"
-    ]
-}
+{"style": ["simplism"], "theme": ["rainbow"], "meta": ["checkpointless", "fixed hitboxes", "cube", "robot"], "gameplay": ["gravity"]}

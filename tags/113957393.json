@@ -1,15 +1,1 @@
-{
-    "style": [
-        "modern"
-    ],
-    "theme": [],
-    "meta": [
-        "jetpack"
-    ],
-    "gameplay": [
-        "gimmicky",
-        "timed",
-        "cycle",
-        "rooms"
-    ]
-}
+{"style": ["modern"], "meta": ["jetpack"], "gameplay": ["gimmicky", "timed", "cycle", "rooms"]}

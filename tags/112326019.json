@@ -1,14 +1,1 @@
-{
-    "style": [
-        "simplism"
-    ],
-    "theme": [
-        "rainbow"
-    ],
-    "meta": [],
-    "gameplay": [
-        "maze",
-        "needle",
-        "rooms"
-    ]
-}
+{"style": ["simplism"], "theme": ["rainbow"], "gameplay": ["maze", "needle", "rooms"]}

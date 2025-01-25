@@ -1,11 +1,1 @@
-{
-    "style": [
-        "standard"
-    ],
-    "theme": [],
-    "meta": [
-        "ship",
-        "ball"
-    ],
-    "gameplay": []
-}
+{"style": ["standard"], "meta": ["ship", "ball"]}

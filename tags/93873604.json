@@ -1,14 +1,1 @@
-{
-    "style": [
-        "glow",
-        "design",
-        "effect",
-        "modern"
-    ],
-    "theme": [],
-    "meta": [],
-    "gameplay": [
-        "nerve control",
-        "learny"
-    ]
-}
+{"style": ["glow", "design", "effect", "modern"], "gameplay": ["nerve control", "learny"]}

@@ -1,12 +1,1 @@
-{
-    "style": [
-        "standard"
-    ],
-    "theme": [],
-    "meta": [],
-    "gameplay": [
-        "blinds",
-        "nerve control",
-        "chokepoints"
-    ]
-}
+{"style": ["standard"], "gameplay": ["blinds", "nerve control", "chokepoints"]}

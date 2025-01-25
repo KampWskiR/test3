@@ -1,18 +1,1 @@
-{
-    "style": [
-        "standard",
-        "design",
-        "glow"
-    ],
-    "theme": [
-        "robtop",
-        "futuristic"
-    ],
-    "meta": [
-        "flashy",
-        "cube"
-    ],
-    "gameplay": [
-        "fast paced"
-    ]
-}
+{"style": ["standard", "design", "glow"], "theme": ["robtop", "futuristic"], "meta": ["flashy", "cube"], "gameplay": ["fast paced"]}

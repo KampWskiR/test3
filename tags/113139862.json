@@ -1,17 +1,1 @@
-{
-    "style": [
-        "design",
-        "glow"
-    ],
-    "theme": [],
-    "meta": [
-        "flashy",
-        "collab"
-    ],
-    "gameplay": [
-        "flow",
-        "fast paced",
-        "sync",
-        "timing"
-    ]
-}
+{"style": ["design", "glow"], "meta": ["flashy", "collab"], "gameplay": ["flow", "fast paced", "sync", "timing"]}

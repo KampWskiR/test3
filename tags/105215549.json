@@ -1,15 +1,1 @@
-{
-    "style": [
-        "recreation"
-    ],
-    "theme": [
-        "retro",
-        "pixel art"
-    ],
-    "meta": [],
-    "gameplay": [
-        "maze",
-        "cycle",
-        "gravity"
-    ]
-}
+{"style": ["recreation"], "theme": ["retro", "pixel art"], "gameplay": ["maze", "cycle", "gravity"]}

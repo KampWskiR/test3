@@ -1,15 +1,1 @@
-{
-    "style": [
-        "effect",
-        "pixel"
-    ],
-    "theme": [],
-    "meta": [
-        "flashy"
-    ],
-    "gameplay": [
-        "sideways",
-        "learny",
-        "gravity"
-    ]
-}
+{"style": ["effect", "pixel"], "meta": ["flashy"], "gameplay": ["sideways", "learny", "gravity"]}

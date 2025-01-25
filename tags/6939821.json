@@ -1,15 +1,1 @@
-{
-    "style": [
-        "effect",
-        "circles"
-    ],
-    "theme": [],
-    "meta": [
-        "flashy",
-        "wave"
-    ],
-    "gameplay": [
-        "fast paced",
-        "memory"
-    ]
-}
+{"style": ["effect", "circles"], "meta": ["flashy", "wave"], "gameplay": ["fast paced", "memory"]}

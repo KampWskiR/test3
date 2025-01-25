@@ -1,15 +1,1 @@
-{
-    "style": [
-        "pixel"
-    ],
-    "theme": [],
-    "meta": [
-        "checkpointless",
-        "robot"
-    ],
-    "gameplay": [
-        "needle",
-        "cycle",
-        "gravity"
-    ]
-}
+{"style": ["pixel"], "meta": ["checkpointless", "robot"], "gameplay": ["needle", "cycle", "gravity"]}

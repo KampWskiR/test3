@@ -1,15 +1,1 @@
-{
-    "style": [
-        "pixel",
-        "atmospheric"
-    ],
-    "theme": [
-        "robtop"
-    ],
-    "meta": [],
-    "gameplay": [
-        "duals",
-        "sideways",
-        "gimmicky"
-    ]
-}
+{"style": ["pixel", "atmospheric"], "theme": ["robtop"], "gameplay": ["duals", "sideways", "gimmicky"]}

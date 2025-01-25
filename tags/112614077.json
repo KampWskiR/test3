@@ -1,18 +1,1 @@
-{
-    "style": [
-        "glow",
-        "design",
-        "effect",
-        "circles"
-    ],
-    "theme": [],
-    "meta": [
-        "flashy",
-        "wave"
-    ],
-    "gameplay": [
-        "fast paced",
-        "memory",
-        "duals"
-    ]
-}
+{"style": ["glow", "design", "effect", "circles"], "meta": ["flashy", "wave"], "gameplay": ["fast paced", "memory", "duals"]}

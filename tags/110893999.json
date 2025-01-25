@@ -1,12 +1,1 @@
-{
-    "style": [
-        "experimental"
-    ],
-    "theme": [],
-    "meta": [
-        "cube"
-    ],
-    "gameplay": [
-        "double jump"
-    ]
-}
+{"style": ["experimental"], "meta": ["cube"], "gameplay": ["double jump"]}

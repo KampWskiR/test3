@@ -1,12 +1,1 @@
-{
-    "style": [
-        "design"
-    ],
-    "theme": [],
-    "meta": [],
-    "gameplay": [
-        "fast paced",
-        "duals",
-        "learny"
-    ]
-}
+{"style": ["design"], "gameplay": ["fast paced", "duals", "learny"]}

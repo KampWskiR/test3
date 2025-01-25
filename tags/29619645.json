@@ -1,16 +1,1 @@
-{
-    "style": [
-        "standard"
-    ],
-    "theme": [
-        "nature",
-        "hot"
-    ],
-    "meta": [
-        "ship",
-        "wave"
-    ],
-    "gameplay": [
-        "chokepoints"
-    ]
-}
+{"style": ["standard"], "theme": ["nature", "hot"], "meta": ["ship", "wave"], "gameplay": ["chokepoints"]}

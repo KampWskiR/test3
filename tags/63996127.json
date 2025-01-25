@@ -1,17 +1,1 @@
-{
-    "style": [
-        "effect",
-        "atmospheric"
-    ],
-    "theme": [],
-    "meta": [
-        "nong",
-        "flashy",
-        "cube",
-        "wave"
-    ],
-    "gameplay": [
-        "fast paced",
-        "memory"
-    ]
-}
+{"style": ["effect", "atmospheric"], "meta": ["nong", "flashy", "cube", "wave"], "gameplay": ["fast paced", "memory"]}

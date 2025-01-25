@@ -1,18 +1,1 @@
-{
-    "style": [
-        "design",
-        "glow"
-    ],
-    "theme": [
-        "hot",
-        "apocalyptic"
-    ],
-    "meta": [],
-    "gameplay": [
-        "fast paced",
-        "flow",
-        "bossfight",
-        "learny",
-        "sync"
-    ]
-}
+{"style": ["design", "glow"], "theme": ["hot", "apocalyptic"], "gameplay": ["fast paced", "flow", "bossfight", "learny", "sync"]}

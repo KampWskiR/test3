@@ -1,13 +1,1 @@
-{
-    "style": [
-        "pixel"
-    ],
-    "theme": [],
-    "meta": [
-        "checkpointless",
-        "jetpack"
-    ],
-    "gameplay": [
-        "bossfight"
-    ]
-}
+{"style": ["pixel"], "meta": ["checkpointless", "jetpack"], "gameplay": ["bossfight"]}

@@ -1,14 +1,1 @@
-{
-    "style": [
-        "simplism"
-    ],
-    "theme": [],
-    "meta": [
-        "robot"
-    ],
-    "gameplay": [
-        "wall jump",
-        "gravity",
-        "cycle"
-    ]
-}
+{"style": ["simplism"], "meta": ["robot"], "gameplay": ["wall jump", "gravity", "cycle"]}

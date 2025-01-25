@@ -1,14 +1,1 @@
-{
-    "style": [
-        "pixel"
-    ],
-    "theme": [
-        "monochromatic"
-    ],
-    "meta": [
-        "spider"
-    ],
-    "gameplay": [
-        "cycle"
-    ]
-}
+{"style": ["pixel"], "theme": ["monochromatic"], "meta": ["spider"], "gameplay": ["cycle"]}

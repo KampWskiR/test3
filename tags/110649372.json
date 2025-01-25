@@ -1,14 +1,1 @@
-{
-    "style": [
-        "modern"
-    ],
-    "theme": [],
-    "meta": [
-        "cube"
-    ],
-    "gameplay": [
-        "fast paced",
-        "blinds",
-        "wavedash"
-    ]
-}
+{"style": ["modern"], "meta": ["cube"], "gameplay": ["fast paced", "blinds", "wavedash"]}

@@ -1,13 +1,1 @@
-{
-    "style": [
-        "minigame",
-        "pixel"
-    ],
-    "theme": [],
-    "meta": [],
-    "gameplay": [
-        "gimmicky",
-        "timed",
-        "autoscroller"
-    ]
-}
+{"style": ["minigame", "pixel"], "gameplay": ["gimmicky", "timed", "autoscroller"]}

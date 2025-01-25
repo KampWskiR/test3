@@ -1,17 +1,1 @@
-{
-    "style": [
-        "art"
-    ],
-    "theme": [],
-    "meta": [
-        "checkpointless",
-        "flashy",
-        "jetpack"
-    ],
-    "gameplay": [
-        "memory",
-        "gimmicky",
-        "avoidance",
-        "autoscroller"
-    ]
-}
+{"style": ["art"], "meta": ["checkpointless", "flashy", "jetpack"], "gameplay": ["memory", "gimmicky", "avoidance", "autoscroller"]}

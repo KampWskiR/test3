@@ -1,14 +1,1 @@
-{
-    "style": [
-        "generic"
-    ],
-    "theme": [],
-    "meta": [
-        "ship",
-        "wave"
-    ],
-    "gameplay": [
-        "timing",
-        "nerve control"
-    ]
-}
+{"style": ["generic"], "meta": ["ship", "wave"], "gameplay": ["timing", "nerve control"]}
