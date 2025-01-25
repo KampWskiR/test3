@@ -1,13 +1,1 @@
-{
-    "style": [
-        "sunset"
-    ],
-    "theme": [],
-    "meta": [
-        "cube"
-    ],
-    "gameplay": [
-        "foddian",
-        "gimmicky"
-    ]
-}
+{"style":["sunset"],"meta":["checkpointless","cube"],"gameplay":["gimmicky","foddian"]}
