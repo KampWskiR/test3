@@ -1,15 +1,1 @@
-{
-    "style": [
-        "tech",
-        "pixel",
-        "atmospheric"
-    ],
-    "theme": [],
-    "meta": [
-        "ship",
-        "swing"
-    ],
-    "gameplay": [
-        "fast paced"
-    ]
-}
+{"style":["tech","pixel"],"theme":["nature"],"gameplay":["gravity"]}
