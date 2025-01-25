@@ -1,13 +1,1 @@
-{
-    "style": [],
-    "theme": [],
-    "meta": [
-        "checkpointless",
-        "robot"
-    ],
-    "gameplay": [
-        "slow paced",
-        "slope boost",
-        "foddian"
-    ]
-}
+{"style":["atmospheric","experimental"],"meta":["checkpointless","robot"],"gameplay":["slope boost","force blocks","foddian"]}
