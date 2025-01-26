@@ -76,6 +76,7 @@
     "learny": "This level may take some time to learn its gameplay.",
     "chokepoints": "This level contains sections with significantly higher difficulty compared to the rest of the level.",
     "gimmicky": "This level differs from standard gameplay by featuring custom or unusual mechanics.",
+    "straight fly": "This level has a lot of straight fly sections\n icon by Adamorocco",
     "spam": "This level requires fast inputs.",
     "maze": "This level requires to navigate a labyrints-like layout to find the correct path.",
     "needle": "This level requires hitbox abusing.",
