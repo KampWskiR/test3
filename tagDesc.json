@@ -124,10 +124,5 @@
     "speedrun": "This level includes long sections, designed to be completed as fast as possible.",
     "gravity": "This level features low or high gravity effects.",
     "classic": "This level features an autoscroll section, similar to classic mode.",
-    "metroidvania": "This level is heavily inspired by Metroidvania games, featuring open-world areas that can be explored non-linearly, with progressive upgrades unlocking new paths and abilities.",
-    "colorful": "",
-    "multi path": "",
-    "humorous": "",
-    "jumpscares": "",
-    "3d": ""
+    "metroidvania": "This level is heavily inspired by Metroidvania games, featuring open-world areas that can be explored non-linearly, with progressive upgrades unlocking new paths and abilities."
 }
