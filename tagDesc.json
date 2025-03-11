@@ -101,7 +101,7 @@
     "learny": "This level may take some time to learn its gameplay.",
     "chokepoints": "This level contains sections with significantly higher difficulty compared to the rest of the level.",
     "gimmicky": "This level differs from standard gameplay by featuring custom or unusual mechanics.",
-    "straight fly": "This level has a lot of straight fly sections\n icon by Adamorocco",
+    "straight fly": "This level has a lot of straight fly sections icon by Adamorocco",
     "spam": "This level requires fast inputs.",
     "maze": "This level requires navigating through a labyrinth to find the correct path.",
     "needle": "This level requires precise jumps and hitbox abuse to progress.",
@@ -124,5 +124,10 @@
     "speedrun": "This level includes long sections, designed to be completed as fast as possible.",
     "gravity": "This level features low or high gravity effects.",
     "classic": "This level features an autoscroll section, similar to classic mode.",
-    "metroidvania": "This level is heavily inspired by Metroidvania games, featuring open-world areas that can be explored non-linearly, with progressive upgrades unlocking new paths and abilities."
+    "metroidvania": "This level is heavily inspired by Metroidvania games, featuring open-world areas that can be explored non-linearly, with progressive upgrades unlocking new paths and abilities.",
+    "colorful": "",
+    "multi path": "",
+    "humorous": "",
+    "jumpscares": "",
+    "3d": ""
 }
