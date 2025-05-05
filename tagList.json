@@ -31,6 +31,7 @@
             	"castle": ["any", [150,75,0], "This level is themed around a castle, often using bricks as blocks and royal-like decorations."],
             	"cave": ["any", [125,125,125], "This level is themed around a cave, often having rocks and dirt as the blocks and having dark backgrounds, often accompanied with torches that light up the way."],
             	"city": ["any", [200,200,200], "This level is themed around cities or contains a significant amount of houses, often appearing in the background."],
+		"cold": ["any", [50,200,255], "This level is themed around cold environment, featuring snow, ice and frosty landscapes."],
 		"colorful": ["any", [255,0,255], "This level contains a lot of various bright and changing colors."],
             	"dark": ["any", [100,100,100], "This level has strong, dark visuals, sometimes even making it difficult to see the gameplay."],
             	"desert": ["any", [210,180,140], "This level is themed around a desert landscape, featuring sand, pyramids and oases."],
