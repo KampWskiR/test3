@@ -25,7 +25,7 @@
 		"acid": ["any", [0,255,0], "This level is themed around acid-like bodies of water and the environment that surrounding them."],
             	"anxious": ["any", [255,100,100], "This level attempts to evoke a sense of uneasiness and urgency."],
             	"apocalyptic": ["any", [160,50,50], "This level is themed around a post-apocalyptic world, featuring ruined landscapes, dark skies, and crumbling buildings."],
-            	"asian": ["any", [255,215,0], "This level is inspired by and themed around Asian culture."],
+            	"asian": ["any", [255,100,200], "This level is inspired by and themed around Asian culture."],
             	"aquatic": ["any", [0,150,255], "This level is themed around the ocean, featuring an underwater atmosphere with aquatic elements."],
             	"cartoon": ["any", [120,255,255], "This level uses bright, vivid colors and exaggerated shapes to create a cartoonish look."],
             	"castle": ["any", [150,75,0], "This level is themed around a castle, often using bricks as blocks and royal-like decorations."],
