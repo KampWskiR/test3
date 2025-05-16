@@ -131,7 +131,7 @@
             	"rooms": ["plat", [255,75,75], "This level is divided into rooms."],
             	"double jump": ["plat", [100,255,200], "This level features double jump mechanics."],
             	"speedrun": ["plat", [50,50,150], "This level includes long sections, designed to be completed as fast as possible."],
-            	"classic": ["plat", [200,100,100], "Platformer level that has part which copies classic mode gameplay"],
+            	"classic": ["plat", [200,100,100], "This level has sections which copy classic mode gameplay."],
             	"metroidvania": ["plat", [100,100,135], "This level is heavily inspired by Metroidvania games, featuring open-world areas that can be explored non-linearly, with progressive upgrades unlocking new paths and abilities."]
 	}
 }
