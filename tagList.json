@@ -104,6 +104,7 @@
             	"duals": ["any", [255,100,0], "This level's difficulty mainly comes from its duals sections."],
             	"maze": ["plat", [100,100,100], "This level requires navigating through a labyrinth to find the correct path."],
             	"timing": ["any", [50,255,255], "This level requires precise and accurate inputs to avoid obstacles."],
+		"tower": ["plat", [150,150,150], "This level progresses verticaly like a tower."],
             	"sideways": ["any", [200,255,100], "This level contains sections where you move sideways."],
             	"random": ["any", [255,255,255], "This level contains randomized sections or elements."],
             	"high cps": ["any", [255,100,255], "This level requires high click speed."],
