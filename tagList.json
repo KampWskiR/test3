@@ -16,7 +16,7 @@
 		"eclectic": ["any", [255,220,90], "This level uses multiple commonly seen styles at once, ranging from design to art."],
 		"circles": ["any", [255,75,75], "This level uses pulsing objects to create flashy effects in the wave parts."],
 		"sunset": ["any", [255,70,25], "This level has sunset-colored backgrounds with structures that are purely black."],
-		"minigame": ["any", [200,200,200], "This level doesn't rely on base gamemodes (classic or platformer)."]
+		"minigame": ["any", [255,200,0], "This level contains a part that doesn't rely on base gamemodes (classic or platformer)."]
         },
         "theme": {
 		"1.0": ["any", [0,145,255], "This level is themed around version 1.0, and uses mostly objects from this era."],
