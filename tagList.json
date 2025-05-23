@@ -32,7 +32,7 @@
             	"cave": ["any", [125,125,125], "This level is themed around a cave, often having rocks and dirt as the blocks and having dark backgrounds."],
             	"city": ["any", [200,200,200], "This level is themed around cities or contains a significant amount of houses."],
 		"cold": ["any", [50,200,255], "This level is themed around cold environment, featuring snow, ice and frosty landscapes."],
-		"colorful": ["any", [255,0,255], "This level has a big diversity in color palette"],
+		"colorful": ["any", [255,0,255], "This level has a big diversity in color palette."],
             	"dark": ["any", [100,100,100], "This level has strong, dark visuals, sometimes even making it difficult to see the gameplay."],
             	"desert": ["any", [210,180,140], "This level is themed around a desert landscape, featuring sand, pyramids and oases."],
             	"dungeon": ["any", [200,100,100], "This level is themed around dungeons, often using bricks as blocks and featuring monsters as an obstacle."],
