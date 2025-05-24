@@ -21,7 +21,7 @@
         "theme": {
 		"1.0": ["any", [0,145,255], "This level is themed around version 1.0, and uses mostly objects from this era."],
 		"1.9": ["any", [255,0,255], "This level is themed around version 1.9, and uses mostly objects from this era."],
-		"abstract": ["any", [180,180,255], "This level thinks outside of the box with the way it portrays it's visuals, using unique and uncommon ways to decorate the level."],
+		"abstract": ["any", [180,180,255], "This level thinks outside of the box with the way it portrays its visuals, using unique and uncommon ways to decorate the level."],
 		"acid": ["any", [0,255,0], "This level is themed around acid-like bodies of water and the environment that surrounding them."],
             	"anxious": ["any", [255,100,100], "This level attempts to evoke a sense of uneasiness and urgency."],
             	"apocalyptic": ["any", [160,50,50], "This level is themed around a post-apocalyptic world, featuring ruined landscapes, dark skies, and crumbling buildings."],
