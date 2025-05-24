@@ -12,7 +12,7 @@
 		"pixel": ["any", [120,255,70], "This level mainly uses default pixel blocks added in 2.2."],
 		"core": ["any", [120,120,120], "This level focuses on structure and intricate details, often utilizing a large number of objects."],
 		"atmospheric": ["any", [110,130,145], "This level creates a strong atmosphere, often being visually impressive and showcasing a distinct climate or mood."],
-		"experimental": ["any", [25,255,25], "This level experiments with it's decoration and block designs to create visuals different than any other popular style."],
+		"experimental": ["any", [25,255,25], "This level experiments with its decoration and block designs to create visuals different than any other popular style."],
 		"eclectic": ["any", [255,220,90], "This level uses multiple commonly seen styles at once, ranging from design to art."],
 		"circles": ["any", [255,75,75], "This level uses pulsing objects to create flashy effects in the wave parts."],
 		"sunset": ["any", [255,70,25], "This level has sunset-colored backgrounds with structures that are purely black."],
