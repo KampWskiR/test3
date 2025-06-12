@@ -136,6 +136,6 @@
             	"metroidvania": ["plat", [100,100,135], "This level is heavily inspired by Metroidvania games, featuring open-world areas that can be explored non-linearly, with progressive upgrades unlocking new paths and abilities."]
 	},
 	"extra": {
-		"test": ["any", [255,255,255], "test"],
+		"test": ["any", [255,255,255], "test"]
 	}
 }
