@@ -45,11 +45,11 @@
 		"happy": ["any", [255,255,0], "This level features bright colors and cheerful music."],
             	"heaven": ["any", [240,240,255], "This level is themed around heaven, featuring white and gold palette, angelic elements and clouds."],
             	"hell": ["any", [255,0,0], "This level is themed around hell, featuring a dominant red palette, demonic and satanic imagery, as well as elements like blood and fire."],
-		"holiday": ["any", [0,100,255], "This level is themed around various holidays like Christmas, Halloween or Easter"]
+		"holiday": ["any", [0,100,255], "This level is themed around various holidays like Christmas, Halloween or Easter"],
             	"horror": ["any", [150,0,0], "This level is themed around horror, featuring scary and spooky visuals with a dark color palette."],
             	"hot": ["any", [255,100,50], "This level is themed around hot environments like volcanoes and magma caves, often containing lava-like liquids."],
             	"mechanical": ["any", [128,128,128], "This level is themed around mechanisms and robotics."],
-		"meta": ["any", [255, 25, 100], "This level tries to replicate gd's ui look."]
+		"meta": ["any", [255, 25, 100], "This level tries to replicate gd's ui look."],
             	"monochromatic": ["any", [100,100,100], "This level has a single dominant color palette throughout its sections."],
             	"nature": ["any", [0,128,0], "This level is themed around nature, featuring elements such as landscapes, mountains and other natural scenery."],
 		"night": ["any", [100,90,210], "This level is themed around night atmosphere, often using dark color palette."],
@@ -67,7 +67,7 @@
             	"impossible": ["any", [255,100,100], "This level is humanly impossible or so difficult that it is unlikely ever to be beaten by a human."],
             	"challenge": ["any", [100,100,100], "This level is a short burst of difficulty designed to train a player's skills."],
             	"flashy": ["any", [255,255,0], "This level contains flashy colors that may trigger epilepsy. If you are affected by this condition, it is strongly advised not to play levels with this tag."],
-		"sensitive": ["any", [125, 25, 25], "This level contains sensitive content that may be disturbing or triggering for some players."]
+		"sensitive": ["any", [125, 25, 25], "This level contains sensitive content that may be disturbing or triggering for some players."],
             	"nong": ["any", [80,80,255], "This level contains a song that must be downloaded from a source other than the official ones."],
             	"checkpointless": ["plat", [255,255,255], "This level contains no checkpoints, meaning it must be completed in a single run."],
             	"collab": ["any", [100,255,100], "This level is a collaboration between two or more creators."],
